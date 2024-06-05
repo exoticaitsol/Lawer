@@ -1,0 +1,38 @@
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 41.6 MB/2 GB - Lawer > Start upgrade from 0.0.0
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > Backing up options of 0.0.0
+13-05-2024 10:54:41 - INFO  - 8.3.2 - 42.0 MB/2 GB - Lawer > End
